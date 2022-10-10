@@ -1,0 +1,11 @@
+{
+    "name": "SensibleGibs",
+    "version": "1.0.0",
+    "title": "Sensible Gibs",
+    "author": "Dusk Wuff",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base"
+    ],
+    "description": "Reduces the intensity of graphical effects emitted by dying enemies, which may improve FPS during intense combat."
+}
